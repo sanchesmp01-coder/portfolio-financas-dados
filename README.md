@@ -1,12 +1,20 @@
-# Portfólio – Finanças e Análise de Dados
+# Retail Sales Analysis
 
-Estudante de Ciências Econômicas (UFRJ) com interesse em Finanças, FP&A e Análise de Dados.
+Este projeto tem como objetivo analisar dados de vendas do varejo para identificar
+os principais fatores que influenciam o desempenho comercial das lojas.
+
+## Objetivos
+- Realizar limpeza e organização dos dados
+- Explorar padrões de vendas por tipo de loja e localização
+- Avaliar relação entre preço dos produtos e volume de vendas
+- Gerar insights para suporte à tomada de decisão
 
 ## Ferramentas
-- Python (Pandas, NumPy)
-- SQL (consultas e agregações)
-- Excel (análise de dados)
-- Power BI (dashboards e KPIs)
+- Python
+- Pandas
+- Matplotlib / Seaborn
+- Jupyter Notebook
 
-## Objetivo
-Reunir projetos práticos voltados à análise financeira e apoio à tomada de decisão.
+## Fonte dos dados
+Dataset público disponibilizado no Kaggle.
+
